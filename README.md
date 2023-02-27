@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5``
+- ``HTML5`` ``JavaScript``
 
 <br>
 
